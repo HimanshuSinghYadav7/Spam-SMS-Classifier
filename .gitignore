@@ -1,5 +1,6 @@
 # Model files
 tfidf_vectorizer.joblib
+trained_model.joblib
 
 # Evaluation reports
 evaluation_report.txt
