@@ -1,5 +1,0 @@
-# Trained models
-*.joblib
-
-# Generated reports
-evaluation_report.txt
