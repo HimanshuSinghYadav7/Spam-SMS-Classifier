@@ -111,7 +111,7 @@ Spam / Ham
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/sms-spam-classifier.git
+git clone https://github.com/iamHimanshu-07/sms-spam-classifier.git
 
 cd sms-spam-classifier
 ```
