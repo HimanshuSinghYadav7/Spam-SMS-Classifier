@@ -227,6 +227,4 @@ This project demonstrates:
 
 Himanshu Singh Yadav
 
-Machine Learning Enthusiast | Python Developer | Data Science Learner
-
-⭐ If you found this project useful, consider giving it a star on GitHub.
+AI & ML Engineer
